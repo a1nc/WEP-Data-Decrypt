@@ -1,2 +1,2 @@
 # WEP-Data-Decrypt
-This project aim to decrypt the WEP encrypted wireless data.
+This project aims to decrypt the WEP encrypted wireless data.
