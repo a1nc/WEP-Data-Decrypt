@@ -1,1 +1,1 @@
-This project is a demo based on the WEP-DataDecrypt project
+This project is a demo based on the WEP-Data-Decrypt project
