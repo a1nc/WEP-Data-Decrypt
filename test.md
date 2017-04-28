@@ -2,7 +2,7 @@
 
 > **目录**
 >>1. 安装libpcap
->>2. 安装aircrac-ng
+>>2. 安装aircrak-ng
 >>3. 安装wireshark
 >>4. 802.11管理帧格式
 >>5. WEP加密原理
